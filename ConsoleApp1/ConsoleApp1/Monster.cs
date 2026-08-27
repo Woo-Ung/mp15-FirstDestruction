@@ -11,7 +11,7 @@ public class Monster
     {
         Hellth = hellth;
         Mp = mp;
-        Name = name;
+        Nameaaa = naaaaaaaaaaame;
     }
 
     public void attack(int damage, int health)
