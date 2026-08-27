@@ -14,6 +14,7 @@ public class Monster
         Nameaaa = naaaaaaaaaaame;
     }
 
+
     public void attack(int damage, int health)
     {
 
