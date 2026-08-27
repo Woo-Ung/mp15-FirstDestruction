@@ -7,5 +7,6 @@ public class New_class
   Console.WriteLine("Yeseul 입니다!");
   Console.WriteLine("우엉 입니다!");
   Console.WriteLine("오 이제 좀 알거같아요! :) ");
+  Console.WriteLine("굳굳 bb ");
   }
 }
