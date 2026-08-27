@@ -10,8 +10,13 @@ public class WHAT
     public string How { get; set; }
     public string Why { get; set; }
 
+    public WHAT(string who, string when, string where, string what, string how, string why)
+    {
+
+    }
+
     public void Pringinfo()
     {
-        Console.WriteLine($"{How}");
+        Console.WriteLine($"{Who} {When} {Where} {What} {How} {Why}");
     }
 }
