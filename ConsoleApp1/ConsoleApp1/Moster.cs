@@ -7,5 +7,17 @@ public class Moster
     public int Mp { get; set; }
     public string Name { get; set; }
     
+    public Moster(int health, int mp, string name)
+    {
+        Health = health;
+        Mp = mp;
+        Name = name;
+    }
+
+    static void attack(string name,int damage)
+    {
+        Console.WriteLine($"몬스터{name}는 {damage} 데미지 공격을 시도합니다.");
+        
+    }
 }
 
