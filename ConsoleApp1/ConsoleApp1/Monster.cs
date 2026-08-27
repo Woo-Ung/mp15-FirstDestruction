@@ -16,8 +16,9 @@ public class Monster
 
     public void attack(int damage, int health)
     {
-        Console.Write($"몬스터가 울부짖었다 zmdkdkdkdkdkdkkdk");
-        if (damage > 5)
+
+        Console.WriteLine($"몬스터는 {damage} 데미지 공격을 시도를 할까말까 고민합니다.");
+        if (damage > 3)
         {
             Console.WriteLine("공격이 너무 강해 큰 피해를 받습니다.");
             health -= 100;
