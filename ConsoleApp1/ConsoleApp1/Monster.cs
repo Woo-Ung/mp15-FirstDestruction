@@ -9,7 +9,7 @@ public class Monster
     
     public Monster(int health, int mp, string name)
     {
-        Hellth = hellth;
+        Health = health;
         Mp = mp;
         Nameaaa = naaaaaaaaaaame;
     }
