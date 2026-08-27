@@ -4,9 +4,6 @@ using System.Collections.Generic;
 public class Monster
 {
     public int Health { get; set; }
-<<<<<<< HEAD
-
-=======
     public int Mp { get; set; }
     public string Name { get; set; }
     
@@ -31,7 +28,6 @@ public class Monster
         }
 
     }
->>>>>>> a65ace98e34cc98173db369ba1d831da4754723b
-    // ㄴ 이건 뭔가요?
+
 }
 
