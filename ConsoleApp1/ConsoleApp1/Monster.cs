@@ -9,12 +9,14 @@ public class Monster
     
     public Monster(int health, int mp, string name)
     {
+        Hellth = hellth;
         Mp = mp;
         Name = name;
     }
 
     public void attack(int damage, int health)
     {
+
         Console.WriteLine($"몬스터는 {damage} 데미지 공격을 시도를 할까말까 고민합니다.");
         if (damage > 3)
         {
