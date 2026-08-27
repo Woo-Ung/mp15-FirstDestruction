@@ -11,8 +11,9 @@ public class Monster
     {
         Health = health;
         Mp = mp;
-        Name = 충돌 실험을 해봅시다~~;
+        Nameaaa = naaaaaaaaaaame;
     }
+
 
     public void attack(int damage, int health)
     {
