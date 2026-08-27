@@ -1,11 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
 
-public class What
+public class WHAT
 {
-    public string Wha { get; set; }
+    public string Who { get; set; }
+    public string When { get; set; }
+    public string Where { get; set; }
+    public string What { get; set; }
     public string How { get; set; }
-    public string Name { get; set; }
+    public string Why { get; set; }
 
     public void Pringinfo()
     {
