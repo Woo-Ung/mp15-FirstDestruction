@@ -5,5 +5,6 @@ public class New_class
  public static void Main()
  {
   Console.WriteLine("Yeseul 입니다!");
- }
+  Console.WriteLine("우엉 입니다!");
+  }
 }
