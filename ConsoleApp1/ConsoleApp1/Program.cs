@@ -13,6 +13,8 @@ class Program
         Monster snack = new Monster(50, 10, "비단 뱀");
         snack.attack(20,snack.Health);
 
+        Monster Slime = new Monster(20, 5, "슬라임");
+
 
     }
 }
