@@ -14,6 +14,7 @@ class Program
         snack.attack(20,snack.Health);
 
         Monster Slime = new Monster(20, 5, "슬라임");
+        Slime.attack(5,Slime.Health);
 
 
     }
