@@ -9,9 +9,9 @@ public class Monster
     
     public Monster(int health, int mp, string name)
     {
-        Hellth = hellth;
+        Health = health;
         Mp = mp;
-        Name = name;
+        Name = 충돌 실험을 해봅시다~~;
     }
 
     public void attack(int damage, int health)
