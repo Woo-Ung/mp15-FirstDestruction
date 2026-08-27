@@ -32,5 +32,6 @@ public class Moster
 
     }
 >>>>>>> a65ace98e34cc98173db369ba1d831da4754723b
+    // ㄴ 이건 뭔가요?
 }
 
